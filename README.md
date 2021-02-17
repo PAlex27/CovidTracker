@@ -16,8 +16,4 @@ Libraries used:
 - Ticker from Robinhood: https://github.com/robinhood/ticker
 - Nice Spinner: https://github.com/arcadefire/nice-spinner
 
-Relevant links:
-- The data for our app is coming from The COVID Tracking Project: https://covidtracking.com/api
-- Prevention and treatment for COVID-19: https://g.co/kgs/gkeCji
-
 
